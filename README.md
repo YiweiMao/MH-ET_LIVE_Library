@@ -1,4 +1,7 @@
 # GxEPD2
+
+AKA MH-ET_LIVE_Library.
+
 ## Arduino Display Library for SPI E-Paper Displays
 
 - With full Graphics and Text support using Adafruit_GFX
